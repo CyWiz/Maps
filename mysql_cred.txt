@@ -1,0 +1,8 @@
+username:maps
+password:maps
+
+
+database name: CRIME
+
+
+table: spatial_storage
